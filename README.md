@@ -70,15 +70,10 @@ python run_sobol_revision.py --test
 ```
 
 ## Main settings
-
-- Year 2023, hourly resolution, Fuencaliente (28.49° N, 17.85° W).
+- La Palma Island (Spain), year 2023, hourly resolution, Fuencaliente (28.49° N, 17.85° W).
 - Ten diesel engines of 82.84 MW in total; the 22.5 MW gas turbine is not represented.
-- Sensitivity analysis on four seasonal representative weeks weighted to one year; annual
-  reference runs as chained 192 h windows with 168 h committed.
-- MILP relative gap 1%, 60 s per week, MIPFocus 2, Rajan–Takriti minimum up/down inequalities.
-- Value of lost load 22.879 €/kWh, the value set for Spain in BOE-A-2025-14438.
-- Morris: 20 trajectories, 4 levels, seeds 42, 7 and 2026. Sobol': scrambled Sobol' sequence,
-  seed 42, N = 256, bootstrap confidence intervals with 1000 resamples.
+- Sensitivity analysis with Morris and Sobol
+- MILP relative gap 1%
 
 ## License
 
