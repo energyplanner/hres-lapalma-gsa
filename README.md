@@ -3,8 +3,8 @@
 Code and input data for the article
 
 > L. Álvarez-Piñeiro, C. Berna-Escriche, D. Blanco-Muelas, P. Bastida-Molina.
-> *Global Sensitivity Analysis of an Hourly Unit Commitment Model for an Island Hybrid Renewable Energy System.*
-> Energy (under review, manuscript EGY-D-26-17155).
+> Global Sensitivity Analysis of an Hourly Unit Commitment Model for an Island Hybrid Renewable Energy System.
+> Energy 
 
 The model couples hourly photovoltaic and wind generation (pvlib, windpowerlib) with a
 mixed-integer linear unit commitment of the ten diesel engines of the Los Guinchos power
