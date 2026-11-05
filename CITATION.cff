@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the article."
+title: "Global sensitivity analysis of an hourly unit commitment model for an island hybrid renewable energy system"
+authors:
+  - family-names: "Álvarez-Piñeiro"
+    given-names: "Lucas"
+    affiliation: "Universitat Politècnica de València"
+  - family-names: "Berna-Escriche"
+    given-names: "César"
+    affiliation: "Universitat Politècnica de València"
+  - family-names: "Blanco-Muelas"
+    given-names: "David"
+    affiliation: "Universitat Politècnica de València"
+  - family-names: "Bastida-Molina"
+    given-names: "Paula"
+    affiliation: "Universitat Politècnica de València"
+license: MIT
+version: "1.0.0"
+date-released: "2026-11-23"

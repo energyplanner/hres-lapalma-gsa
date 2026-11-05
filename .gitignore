@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+outputs_revision/
+outputs/
+*.lic
+gurobi.log
+.env
+.ipynb_checkpoints/
